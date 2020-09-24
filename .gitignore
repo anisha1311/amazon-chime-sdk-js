@@ -19,4 +19,5 @@ integration/js/node_modules
 integration/js/temp
 integration/kite-allure-reports
 integration/logs
-node_modules
+.env
+/node_modules
