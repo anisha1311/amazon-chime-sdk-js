@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "engines": {
     "node": " 14.12.0"
-  }
+  },
   "description": "node app ",
   "main": "build/index.js",
   "types": "build/index.d.ts",
